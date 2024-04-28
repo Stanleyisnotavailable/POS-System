@@ -190,6 +190,8 @@ public class NUser extends javax.swing.JFrame {
         LoginGui2 LoginGui2 = new LoginGui2();
         LoginGui2.setVisible(true);
         dispose();
+        
+        
     }//GEN-LAST:event_sbuttonActionPerformed
 
     private void createbuttonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_createbuttonActionPerformed
